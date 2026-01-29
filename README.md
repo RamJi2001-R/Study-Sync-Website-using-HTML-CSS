@@ -1,4 +1,3 @@
-# Study-Sync-Website-using-HTML-CSS
 # StudySync – Responsive Landing Page 🌐
 
 StudySync is a modern and fully responsive landing page built using **HTML5** and **CSS3**.  
